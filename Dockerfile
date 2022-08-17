@@ -1,4 +1,4 @@
-FROM golang AS builder
+FROM golang AS build
 
 ARG TARGETARCH
 ARG VERSION
